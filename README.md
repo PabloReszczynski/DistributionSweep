@@ -3,12 +3,12 @@
 
 ## TODO:
 - Experimentos
-  - Generacion de datos con dist. normal [x]
-  - Generacion de datos con dist. uniforme [x]
-  - Visualizacion de datos [x]
-- MergeSort [  ]
-  - Algoritmo [x]
-  - Algoritmo con memoria externa [  ]
-- DistributionSort [  ]
-- Distribution Sweep [  ]
-- Informe [  ]
+  - [x] Generacion de datos con dist. normal
+  - [x] Generacion de datos con dist. uniforme
+  - [x] Visualizacion de datos
+- [ ] MergeSort
+  - [x] Algoritmo
+  - [ ] Algoritmo con memoria externa
+- [ ] DistributionSort
+- [ ] Distribution Sweep
+- [ ] Informe
